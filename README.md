@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 📦 Installation
+
+1. **Clone the repository:**
+
+   ```bash
+git remote add origin https://github.com/mokas2017/cp-reacte-init.git
+
+CustomizationYou can easily customize:- Navbar links and branding
+- Card titles, images, and button actions
+- Form fields and submission logic
+📄 LicenseThis project is open-source and available under the MIT License.
